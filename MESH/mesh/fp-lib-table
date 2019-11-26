@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name selfLibrary)(type KiCad)(uri /home/rimesh/Files/softwareFiles/KiCAD/selfLibrary.pretty)(options "")(descr ""))
+  (lib (name raclogo)(type KiCad)(uri /home/rimesh/Files/RAC)(options "")(descr ""))
+)
